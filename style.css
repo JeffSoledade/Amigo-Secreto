@@ -1,5 +1,5 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #620467;
     --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
@@ -136,10 +136,11 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #620467;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
+    
 }
 
 /* Botão de sortear título */

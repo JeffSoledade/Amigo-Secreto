@@ -38,8 +38,8 @@ function mostrarLista() {
 
 // Loop For
     for(let add = 0; add < nomes.length; add++) {
-        const msg = document.createElement('msg');
-        msg.textContent = " * " + nomes[add];
+        const msg = document.createElement('li');
+        msg.textContent = nomes[add];
         lista.appendChild(msg)
     }
 }
